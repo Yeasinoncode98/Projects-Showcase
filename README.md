@@ -18,7 +18,7 @@ Welcome to my Projects Playground! Here you will find a collection of my best wo
 
 | #  | 🔥 Project Name              | 🚀 Description                            | 🎬 GitHub Link                                                                 |
 |----|-----------------------------|-------------------------------------------|--------------------------------------------------------------------------------|
-| 1  | 🔐 **Login Page**            | Simple & Stylish Login Interface          | [GitHub](https://github.com/Yeasinoncode98/Projects-Showcase/tree/main/01_Login_Page)  |
+| 1  | 🔐 **Login Page**            | Simple & Stylish Login Interface   | [![GitHub](https://img.shields.io/badge/View-on-GitHub-blue?style=for-the-badge)](https://github.com/Yeasinoncode98/Projects-Showcase/tree/main/01_Login_Page)  |
 | 2  | 💼 **Business Card**         | Digital Business Card Design              | [GitHub](https://github.com/Yeasinoncode98/Projects-Showcase/tree/main/02_Business_Card) |
 | 3  | 🎬 **Animated Login Page**   | Smooth Animated Login UI                  | [GitHub](https://github.com/Yeasinoncode98/Projects-Showcase/tree/main/03_Animated_LoginPage)  |
 | 4  | 💳 **Credit Card UI**        | Interactive Credit Card Design            | [GitHub](https://github.com/Yeasinoncode98/Projects-Showcase/tree/main/04_Credit_Card)         |
