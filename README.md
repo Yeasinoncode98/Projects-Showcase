@@ -50,6 +50,12 @@ Welcome to my **Projects Showcase Repo** — a curated collection of interactive
 
 ---
 
+## 💡 Take Ideas & Create
+
+Feel free to take **ideas and inspiration** from these projects to build your own versions — but please **do not copy the code directly**. Challenge yourself to learn, experiment, and create unique projects that showcase your personal style and skills!
+
+---
+
 ## 📬 Let’s Connect & Collaborate
 
 <p align="center">
