@@ -70,4 +70,8 @@ Welcome to my **Projects Showcase Repo** — a curated collection of interactive
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1538&height=100&section=footer"/>
   <br>
   <b>Made with ❤️ by Yeasin Arafat</b>
+  <br><br>
+  <small>© 2025 Yeasin Arafat. All rights reserved.</small>
+  <br>
+  <small>Unauthorized use, reproduction, or distribution of this content is strictly prohibited and may result in legal action.</small>
 </p>
