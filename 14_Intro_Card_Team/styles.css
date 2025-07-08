@@ -71,3 +71,38 @@ body {
     padding: 10px;
 
 }
+
+@media (max-width: 768px) {
+    .card-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .card {
+        width: 90%;
+    }
+
+    .card img {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+@media (max-width: 480px) {
+    .dev {
+        font-size: 1.3rem;
+    }
+
+    .sub {
+        font-size: 0.9rem;
+    }
+
+    .card p {
+        font-size: 0.85rem;
+    }
+
+    .card h2,
+    .card h3 {
+        font-size: 1rem;
+    }
+}
