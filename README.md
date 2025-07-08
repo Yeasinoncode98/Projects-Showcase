@@ -35,6 +35,7 @@ Welcome to my **Projects Showcase Repo** — a curated collection of interactive
 | 11 | 🏆 **Sliding Menu**          | Interactive Sliding Sidebar Menu          | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yeasinoncode98.github.io/Projects-Showcase/11_Sliding_Menu/) |
 | 12 | 🌍 **Website Test**          | Clean and responsive simple website design| [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yeasinoncode98.github.io/Projects-Showcase/12_Website_Test/) |
 | 13 | 🛠️ **Admin Panel Redwine**   | Redwine Admin Dashboard with clean UI     | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yeasinoncode98.github.io/Projects-Showcase/13_Admin_Panel_Redwine/) |
+| 14 | 👨‍💻 **Intro Card Team**       | Developer Team Introduction Cards         | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yeasinoncode98.github.io/Projects-Showcase/14_Intro_Card_Team/) |
 
 </div>
 
