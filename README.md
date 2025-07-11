@@ -37,6 +37,9 @@ Welcome to my **Projects Showcase Repo** — a curated collection of interactive
 | 13 | 🛠️ **Admin Panel Redwine**   | Redwine Admin Dashboard with clean UI     | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yeasinoncode98.github.io/Projects-Showcase/13_Admin_Panel_Redwine/) |
 | 14 | 👨‍💻 **Intro Card Team**       | Developer Team Introduction Cards         | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yeasinoncode98.github.io/Projects-Showcase/14_Intro_Card_Team/) |
 | 15 | 🚀 **Next Gen Portfolio**    | A modern and clean portfolio showcase     | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yeasinoncode98.github.io/Projects-Showcase/15_Test_Portfolio/) |
+| 16 | 🎉 **New Year Work**         | A festive and modern New Year-themed project | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yeasinoncode98.github.io/Projects-Showcase/16_NewYear_Work/) |
+| 17 | 🚀 **LaunchingPad Web**      | A clean and professional product launch layout | [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://yeasinoncode98.github.io/Projects-Showcase/17_LaunchingPad_web/) |
+
 
 
 </div>
